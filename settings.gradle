@@ -1,0 +1,9 @@
+pluginManagement {
+    plugins {
+        id 'application'
+        id 'java'
+    }
+}
+
+rootProject.name = 'learning-progress-tracker'
+
